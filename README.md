@@ -1,6 +1,6 @@
 # Virtual-Robotics-Simulation
 
-This repositary icludes virtual simulation of the mobile robot, brief explanation of assigned tasks , solidwork models , arena and complete code for each tasks.
+This repositary icludes virtual simulation of the mobile robot (inlcluding robotic arm), brief explanation of assigned tasks , solidwork models , arena and complete code for each tasks.
 All the algorithms are implemented using C++
 
 ## Webots (OPEN SOURCE ROBOT SIMULATOR)
@@ -16,4 +16,6 @@ Webots is an open source and multi-platform desktop application used to simulate
 * Dash Line following.
 * Ramp Climping.
 * Pillar counting.
+
+Brief explanation of each tasks are explained in the [pdf](https://github.com/prarththanan98/Virtual-Robotics-Simulation/blob/main/EN2532%20Task%202020%20v2.pdf)
 
