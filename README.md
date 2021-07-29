@@ -8,7 +8,7 @@ Webots is an open source and multi-platform desktop application used to simulate
 
 <https://cyberbotics.com/#cyberbotics>
 
-### Assigned Tasks
+## Assigned Tasks
 * Line Following.
 * Wall Following.
 * Circular Maze solving.
@@ -19,3 +19,6 @@ Webots is an open source and multi-platform desktop application used to simulate
 
 Brief explanation of each tasks are explained in the [pdf](https://github.com/prarththanan98/Virtual-Robotics-Simulation/blob/main/EN2532%20Task%202020%20v2.pdf)
 
+
+## Sample Arena
+![Arena](https://user-images.githubusercontent.com/58729660/127558789-c922db81-657e-4aeb-8481-3204dab2932f.PNG)
